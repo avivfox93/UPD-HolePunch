@@ -1,15 +1,3 @@
 # UPD-PunchHole
-#Creating direct P2P UDP Connection between Machines behind NAT.
-
-
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
-<!DOCTYPE html>
-<html>
-<head>
-<title>Copy of Untitled Diagram</title>
-<meta charset="utf-8"/>
-</head>
-<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\&quot; version=\&quot;8.0.2\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;github\&quot;&gt;&lt;diagram id=\&quot;69948b7f-9af0-f3e7-b139-8c415ea9c7a9\&quot; name=\&quot;Page-1\&quot;&gt;5Vptc+MmEP41ns7cTDISSH756NjppTOXq6d227uPWMIWE1loJHx2+usLCCSBZJ/jkx1fmw8JrGCBZx+WZUkPTjb7jxlKo2ca4rgHnHDfg9MeAK7jAf5HSF4Lie/4hWCdkVA1qgRz8g/WPZV0S0KcGw0ZpTEjqSkMaJLggBkylGV0ZzZb0dgcNUVr3BDMAxQ3pX+TkEWFdOg7lfwJk3WkR3Yd9WWJgpd1RreJGq8H4Er+FJ83SOtS7fMIhXRXE8HHHpxklLKitNlPcCyw1bAV/X498LWcd4YTdkoHiN2BOwSjoR94Q9cZ3SkN31C8VVhMYiKUAWespsxeNUxyoViocnrwYRcRhucpCsTXHScGl0VsE/Oay4vNqemxcMbwviZSU/2I6Qaz7JU3UV89hZpiFRio+q6ykauRjWr26SsZUrRYl5oraHhBoXMiUuAwUg/vjlR/eEtQwQZUj0FEuWSOM76mI2i5V0ELAhOtfgtY/Rawym3fKVpeA60GQNxtpKK4ivF+LPwdxwEnoSpOgxjlOQlMnFYkjic0pplUod2S6Mcn/EUxU1a+isr9wBf1PWFfzOpX1fQg7jndZgE+7l8YytaYHacLDg0n3bRezTx+i3W0LMMxYuSb6drbLKZGmFEid/Hesry9lbSKYr2qV93XWorK000rApaiApSGIkmgctnncap/ZU6VtAHd0AbcFCUgNC3p2X7gVErwxRmKXO96lBg0KPHEewiv/IzzXARINkO4N2Wm/XOW0ResGZDQBFukUCIUk3UiSMSNzv09fBC+mfB4a6w+bEgYimFanb15eGaUcdtR0esO+t0cAPbWdEeD5gngtBAKXuIAGP38loFHt/rphvHhLRnGbbrRcSD9CHCK4C/npU8kZ7dvobtRRyYqz0NlItgWPbWFmvbx142Jmm7t5zVRV+7N9a1d5L2riYYdBiM5PyFZp3FvPex168HL/VFr/HDUe1shjgd8c1fr+ptDnIGpCAwsRRcMcdzmSToXfOGiGZjx339Oxe9JkUUSm+42fUIXLmB0QkKg7Y57EReglRouoB9LqPk6+mtRKozzRGPhu2fbJIh0Gz5e1UwLUy1YRCSXsRKLaChmIWrbHIsyE1FUkGHEhNJ0m+GSBQUj6lxwlpjtME50v2cURCTBufzCS0Lh5/HivjattJpVZ0zKOTVIsuYCv6otaCpOCHAonUQ5NVax9IoRJxpfxAVIZaVNfKfJqTIQM/ImlyFVM3fZJNWcYZFDHh+lUki+aZHLressIjN8yPlR9IsooOAlobtY+mzgbHR0XtAFFzmuXOa46iSpqW8ZUYuWmS35bldQTVZn1pwcydiHSWkglyCm3kcbQZNkmadSl8PpibMECYR/ExsBSXrPfv9jITAXeyBEDC1RzvVMCoVCSJjCI7cGKauxjLUcuhJKpQWDEkgWIfENyW2okvk4vApW0DasmAESS+IWFfNN5fqmJBMPDOaBEdSdxI5wrvP2fLVZxZKrrOEHun74UC7fysUqFIRNmyaVvpTukhph5EZoUKZGkUJDXakkjdwjKNG4TRW7DgL3P/CnrpW178OmQ/W91kP6Ig4VNBzqdLwYP4znjy2MmjOaYUmG0lGeZEgd6gevMT9SZaj0nYz/ssD90/KCTwCef2J8VNqsW+ibTybn35HelLB1jYTtvaOrM5wRvi5hn+rGVM/x6hvUUYMcT/KCE65Jt/U4AK0nSQ8Mz7smQSs+hwNL0SWvSW3R+FXIZjwquSarhgarNBNF3abieWyDJ5BNA3ErbLOeokrSvJVtZaRe0vZ67w7g3d43LUfl1KloOD1wfqbnFFa5N0Uq1zr5ymThW0nlWongxuv4JUl17QfOilSDg6Ryr0mq2/JUQ9vBnHks2u8/AMLrceo/9JQg3+NWMUmf1DdR/kuVQ3nHLRpilLNjPH3D050VGrktl5nrPTqAZir4M971qsv/rVuws/c6z9pSsOWmM+zGLLxa/StjsSWr/xeFj/8C&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
-<script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
-</body>
-</html>
+Creating direct P2P UDP Connection between Machines behind NAT.
+![Self-editing Diagram](https://github.com/avivfox93/UPD-PunchHole/blob/master/Diagram.svg)
