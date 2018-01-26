@@ -28,7 +28,8 @@ server.on('listening', function () {
 server.on('message', function (message, remote) {
     console.log(remote.address + ':' + remote.port +' - ' + message);
 	var temp = remote.address + ":" + remote.port;
-	server.send(temp, 0, temp.length, remote.port, remote.address);
+	server.send(temp, 0, temp.length, remote.port, remote.address); //Send the client is external IP and PORT. 
+	// You can add him to the database instead and send back active users list
 });
 
 server.bind(PORT);
